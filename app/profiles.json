@@ -23,7 +23,7 @@ window.others = {
       },
       {
         "avatar": "avatars/others/anca.png",
-        "username": "AncaD",
+        "username": "Anca",
         "text": "I am a Computer Science student, interested in Natural Language processing. Also a lover of loose leaf tea and a Semantic Web enthusiast. I’m curious about what this task is about.",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
@@ -37,13 +37,13 @@ window.others = {
         "avatar": "avatars/others/mary.png",
         "username": "Mary",
         "text": "My name is Mary and I am 49 years old. I have a husband and 2 grown sons. My family and I lived in different countries. Our sons attended international schools wherever we went and since moving to China, I found work at those schools as well. Besides roaming around the world, I like playing games. Board games, cards, black jack or poker, mah jong, or silly games on Facebook, jig saws, basically anything",
-        "likes": [20000, 25000, 95000] //3
+        "likes": [20000, 25000, 95000] //4
       },
       {
         "avatar": "avatars/others/lauren.png",
         "username": "Lauren",
         "text": "I’m Lauren, I love to hang out with friends and go shopping. Just doing some online studies here!",
-        "likes": [12000, 38000] //1
+        "likes": [12000, 38000] //3
       },
           {
         "avatar": "avatars/others/kim.png",
